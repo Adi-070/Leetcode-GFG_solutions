@@ -60,43 +60,40 @@ class Main {
 
 class Solution
 {
-    //Function to return list containing vertices in Topological order. 
+   
     static int[] topoSort(int V, ArrayList<ArrayList<Integer>> adj) 
+    {   
+       
+        Stack<Integer> stack = new Stack<>();
+        
+        boolean visited[] = new boolean[V];
+        
+        for(int i=0; i<V; i++)
+        {
+            if(!visited[i])
+            dfs(i,adj,visited,stack);
+        }
+        
+        int arr[] = new int[V];
+        int i=0;
+        
+        while(!stack.isEmpty())
+        {
+            arr[i++] = stack.pop();
+        }
+        return arr;
+    }
+    
+    static void dfs(int V, ArrayList<ArrayList<Integer>> adj,boolean visited[], Stack<Integer> stack )
     {
-        Queue<Integer> q = new LinkedList<>();
-        int indegree[] = new int[V];
+        visited[V] = true;
         
-        for(int i=0; i<V; i++)
+        
+        for(int i: adj.get(V))
         {
-            for(int vertex: adj.get(i))
-            indegree[vertex]++;
+            if(!visited[i])
+            dfs(i,adj,visited,stack);
         }
-        
-        for(int i=0; i<V; i++)
-        {
-                  
-            if(indegree[i]==0)
-            q.add(i);
-        }
-        
-        int result[] = new int[V];
-        int index = 0;
-        
-        while(!q.isEmpty())
-        {
-            int curr = q.peek();
-            q.remove();
-            
-            result[index++] = curr;
-            
-            for(int adjs: adj.get(curr))
-            {
-                indegree[adjs]--;
-                if (indegree[adjs] == 0)
-                q.add(adjs);
-                
-            }
-        }
-        return result;
+        stack.push(new Integer(V));
     }
 }
