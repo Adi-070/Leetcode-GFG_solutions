@@ -15,30 +15,26 @@ class Solution {
 
         for(int i=0; i<numCourses; i++)
         {
-            if( !isCyclicDFS(i,adj,visited,dfsvisited))
+            if(!visited[i] && isCyclicDFS(i,adj,visited,dfsvisited))
             return false;
         }
         return true;
     }
 
-    public boolean isCyclicDFS(int s,ArrayList<Integer>[] adj,boolean visited[],boolean dfsvisited[])
+    public boolean isCyclicDFS(int s,ArrayList<Integer>[] adj,boolean visited[], boolean dfsvisited[])
 {
-    if(visited[s])
-    return false;
-    if(dfsvisited[s])
-    return true;
-
     visited[s] = true;
+    dfsvisited[s] = true;
 
     for(int i: adj[s]) 
     {
-    if( !isCyclicDFS(i,adj,visited,dfsvisited))
-    return false;
-
-   
-    }
-    visited[s] = false;
-    dfsvisited[s] = true;
+    if(!visited[i] && isCyclicDFS(i,adj,visited,dfsvisited))
     return true;
+
+    else if (dfsvisited[i]==true)
+    return true;
+    }
+    dfsvisited[s] = false;
+    return false;
 }
 }
