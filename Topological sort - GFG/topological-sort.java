@@ -56,7 +56,7 @@ class Main {
 
 
 /*Complete the function below*/
-
+DFS
 
 class Solution
 {
@@ -95,5 +95,53 @@ class Solution
             dfs(i,adj,visited,stack);
         }
         stack.push(new Integer(V));
+    }
+}
+
+
+........................................................................................................................................
+/*Complete the function below*/
+ BFS
+
+class Solution
+{
+    //Function to return list containing vertices in Topological order. 
+    static int[] topoSort(int V, ArrayList<ArrayList<Integer>> adj) 
+    {
+        Queue<Integer> q = new LinkedList<>();
+        int indegree[] = new int[V];
+        
+        for(int i=0; i<V; i++)
+        {
+            for(int vertex: adj.get(i))
+            indegree[vertex]++;
+        }
+        
+        for(int i=0; i<V; i++)
+        {
+                  
+            if(indegree[i]==0)
+            q.add(i);
+        }
+        
+        int result[] = new int[V];
+        int index = 0;
+        
+        while(!q.isEmpty())
+        {
+            int curr = q.peek();
+            q.remove();
+            
+            result[index++] = curr;
+            
+            for(int adjs: adj.get(curr))
+            {
+                indegree[adjs]--;
+                if (indegree[adjs] == 0)
+                q.add(adjs);
+                
+            }
+        }
+        return result;
     }
 }
