@@ -119,8 +119,8 @@ class Solution{
          if (node==null)
          return 0;
          
-         if(node.left==null && node.right == null)
-        return 0;
+        // if(node.left==null && node.right == null)
+        //return 0;
          
          if (node.left!=null && node.left.left==null && node.left.right==null)
          {
