@@ -34,6 +34,10 @@ class GFG
 }
 // } Driver Code Ends
 
+/*0->Not visited
+  1-> Blue
+  -1 -> Red
+*/
 
 class Solution
 {
