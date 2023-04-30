@@ -52,7 +52,7 @@ class DriverClass
 // } Driver Code Ends
 
 
-
+//User function Template for Java
 
 
 class Solution
@@ -60,61 +60,62 @@ class Solution
    
     static int[] dijkstra(int V, ArrayList<ArrayList<ArrayList<Integer>>> adj, int S)
     {
-        boolean visited[] = new boolean[V];
-        
-        PriorityQueue<Pair> q = new PriorityQueue<>();
-        
-        q.add(new Pair(S,0));
-        
-        int ans[] = new int[V];
-        
-        Arrays.fill(ans, Integer.MAX_VALUE);
-        
-        ans[S] =0;
-        
-        while(q.size()!=0)
-        {
-            Pair current = q.remove();
+       boolean visited[] = new boolean[V];
+       
+       PriorityQueue<Pair> q = new PriorityQueue<>();
+       
+       q.add(new Pair(S,0));
+       
+       int ans[] = new int[V];
+       
+       Arrays.fill(ans,Integer.MAX_VALUE);
+       
+       ans[S] =0;
+       
+       while(!q.isEmpty())
+       {
+           
+           
+           
+               Pair current = q.remove();
+               
+               int u =current.v;
+               
+               if(visited[u])
+               continue;
+               
+               visited[u]=true;
+               
+            ArrayList<ArrayList<Integer>> neighbors = adj.get(u);
             
-            int u = current.v;
-            
-            if(visited[u])
-            continue;
-            
-            visited[u] = true;
-        
-        
-        ArrayList<ArrayList<Integer>> neighbors = adj.get(u);
-        
-        for(ArrayList<Integer> list: neighbors)
-        {
-            int vertex = list.get(0);
-            int weight = list.get(1);
-            
-            if (ans[vertex] > ans[u] + weight)
+            for(ArrayList<Integer> list: neighbors)
             {
-            ans[vertex] = ans[u] + weight;
-            q.add(new Pair(vertex, ans[vertex]));
+                int vertex = list.get(0);
+                int weight = list.get(1);
+                
+                if(ans[vertex]>ans[u] + weight)
+                {
+                ans[vertex] = ans[u] + weight;
+                q.add(new Pair(vertex,ans[vertex]));
+                    
+                }
             }
-        }
-        
-        }
-        return ans;
+           
+       }
+       return ans;
     }
 }
-    
-    
+
 class Pair implements Comparable<Pair>
 {
     int v;
     int wt;
     
-    Pair(int v, int wt)
+    Pair (int v, int wt)
     {
         this.v = v;
         this.wt = wt;
     }
-    
     public int compareTo(Pair that)
     {
         return this.wt-that.wt;
