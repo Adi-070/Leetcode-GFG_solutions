@@ -60,7 +60,7 @@ class Solution
    
     static int[] dijkstra(int V, ArrayList<ArrayList<ArrayList<Integer>>> adj, int S)
     {
-       boolean visited[] = new boolean[V];
+      // boolean visited[] = new boolean[V];
        
        PriorityQueue<Pair> q = new PriorityQueue<>();
        
@@ -81,10 +81,10 @@ class Solution
                
                int u =current.v;
                
-               if(visited[u])
-               continue;
+              // if(visited[u])
+              // continue;
                
-               visited[u]=true;
+              // visited[u]=true;
                
             ArrayList<ArrayList<Integer>> neighbors = adj.get(u);
             
