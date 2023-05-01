@@ -50,25 +50,39 @@ class Solution
     public int kosaraju(int V, ArrayList<ArrayList<Integer>> adj)
     {
          boolean[] visited = new boolean[V];
+         
         Stack<Integer> stk  = new Stack<>();
+        
         ArrayList<ArrayList<Integer>> transpose = new ArrayList<>();
+        
         for(int i=0;i<V;i++){
+            
             if(!visited[i]){
                 dfs(adj,i,stk,visited);
             }
         }
-        for(int i=0;i<V;i++) transpose.add(new ArrayList<>());
+        for(int i=0;i<V;i++) 
+        transpose.add(new ArrayList<>());
+        
         for(int i=0;i<V;i++){
+            
             visited[i] = false;
+            
             for(int it:adj.get(i)){
+                
                 transpose.get(it).add(i);
             }
         }
         int cnt = 0;
+        
         while(!stk.isEmpty()){
+            
             int node = stk.pop();
+            
             if(!visited[node]) {
+                
                 revDFS(transpose,node,visited);
+                
                 cnt++;
             }
         }
@@ -76,16 +90,25 @@ class Solution
     }
     
     void dfs(ArrayList<ArrayList<Integer>> adj,int node,Stack<Integer> stk,boolean[] visited){
+        
         visited[node] = true;
+        
         for(int it:adj.get(node)){
-            if(!visited[it]) dfs(adj,it,stk,visited);
+            
+            if(!visited[it]) 
+                dfs(adj,it,stk,visited);
         }
+        
         stk.push(node);
     }
     void revDFS(ArrayList<ArrayList<Integer>> adj,int node,boolean[] visited){
+        
         visited[node] = true;
+        
         for(int it:adj.get(node)){
-            if(!visited[it]) revDFS(adj,it,visited);
+            
+            if(!visited[it]) 
+                revDFS(adj,it,visited);
         }
     }
 }
