@@ -46,7 +46,6 @@ class GFG {
 
 class Solution {
     public long kthElement( int arr1[], int arr2[], int n, int m, int k) {
-        
         ArrayList<Integer> list = new ArrayList<>();
         
         for(int i:arr1)
@@ -56,6 +55,8 @@ class Solution {
         list.add(i);
         
         Collections.sort(list);
+        
         return list.get(k-1);
+        
     }
 }
