@@ -1,6 +1,6 @@
 # K-th element of two sorted Arrays
 ## Medium
-<div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two sorted arrays <strong>arr1</strong> and <strong>arr2</strong> of size <strong>N</strong>&nbsp;and <strong>M</strong>&nbsp;respectively and an element <strong>K</strong>. The task is to find the element that would be at the k’th position of the final sorted array.</span><br>
+<div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two sorted arrays <strong>arr1</strong> and <strong>arr2</strong> of size <strong>N</strong>&nbsp;and <strong>M</strong>&nbsp;respectively and an element <strong>K</strong>. The task is to find the element that would be at the kth position of the final sorted array.</span><br>
 &nbsp;</p>
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
@@ -41,6 +41,6 @@ You don't need to read input or print anything. Your task is to complete the fun
 <p><br>
 <span style="font-size:18px"><strong>Constraints:</strong><br>
 1 &lt;= N, M &lt;= 10<sup>6</sup><br>
-1 &lt;= arr1<sub>i</sub>, arr2<sub>i</sub> &lt;&nbsp;INT_MAX<br>
+0 &lt;= arr1<sub>i</sub>, arr2<sub>i</sub> &lt;&nbsp;INT_MAX<br>
 1 &lt;= K &lt;= N+M</span></p>
 </div>
