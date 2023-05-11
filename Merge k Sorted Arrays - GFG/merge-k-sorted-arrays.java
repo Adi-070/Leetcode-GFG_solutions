@@ -37,18 +37,24 @@ class Solution
     //Function to merge k sorted arrays.
     public static ArrayList<Integer> mergeKArrays(int[][] arr,int K) 
     {
-        ArrayList<Integer> list = new ArrayList<>();
+        PriorityQueue<Integer> q = new PriorityQueue<>((a,b)->a-b);
         
         for(int i=0; i<arr.length; i++)
         {
          for(int j=0; j<arr[0].length; j++)
          {
-             list.add(arr[i][j]);
+             q.add(arr[i][j]);
          }
          
         }
-        Collections.sort(list);
-        
-        return list;
+       
+       ArrayList<Integer> list = new ArrayList<>();
+       
+       while(!q.isEmpty())
+       {
+           
+           list.add(q.remove());
+       }
+       return list;
     }
 }
