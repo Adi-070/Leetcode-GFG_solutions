@@ -131,12 +131,14 @@ class Solution {
         if(node==null)
         return ;
         
+          Node temp = node.left;
+        node.left = node.right;
+        node.right = temp;
+        
         
          mirror(node.left);
          mirror(node.right);
         
-        Node temp = node.left;
-        node.left = node.right;
-        node.right = temp;
+      
     }
 }
