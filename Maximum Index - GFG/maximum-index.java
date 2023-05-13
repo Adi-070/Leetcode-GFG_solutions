@@ -56,3 +56,32 @@ class Solution{
         return maxDiff;
     }
 }
+........................................................................................
+	
+	
+	class Solution{
+    
+    // A[]: input array
+    // N: size of array
+    // Function to find the maximum index difference.
+    static int maxIndexDiff(int arr[], int N) { 
+        
+        int max = 0;
+        
+        for(int i=0; i<N; i++)
+        {
+            int j=N-1;
+            
+            while(i<j)
+            {
+            if(arr[i]<=arr[j])
+             {
+            max = Math.max(max,j-i);
+            break;
+             }
+            j--;
+            } 
+        }
+        return max;
+    }
+}
