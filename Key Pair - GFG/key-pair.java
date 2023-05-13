@@ -36,24 +36,17 @@ public class Main {
 
 
 class Solution {
-    boolean hasArrayTwoCandidates(int arr[], int n, int X) {
+    boolean hasArrayTwoCandidates(int nums[], int n, int x) {
         
-        Arrays.sort(arr);
+        HashMap<Integer,Integer> map = new HashMap<>();
         
-        int i=0;
-        
-        int j=n-1;
-        
-        while(i<j)
+        for(int i=0; i<n; i++)
         {
-            if(arr[i]+arr[j]==X)
+            if(map.containsKey(x-nums[i]))
             return true;
             
-            else if(arr[i]+arr[j]<X)
-            i++;
             
-            else
-            j--;
+            map.put(nums[i],i);
         }
         return false;
     }
