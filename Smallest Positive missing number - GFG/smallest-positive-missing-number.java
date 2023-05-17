@@ -28,6 +28,33 @@ class Solution
     }
 }
 
+......................................................................................
+	
+class Solution
+{
+    //Function to find the smallest positive number missing from the array.
+    static int missingNumber(int arr[], int size)
+    {
+        HashSet<Integer> set = new HashSet<>();
+        Arrays.sort(arr);
+        
+        for(int i:arr)
+        set.add(i);
+        
+        int i=1;
+        
+        while(i<=size)
+        {
+            if(!set.contains(i))
+            return i;
+            
+            else 
+            i++;
+        }
+        return arr[arr.length-1]+1;
+    }
+}
+
 
 //{ Driver Code Starts.
 
