@@ -47,7 +47,7 @@ class GfG
             max = Math.max(max,i-map.get(sum));
             
             if(sum==0)
-            max=Math.max(sum,i+1);
+            max=Math.max(max,i+1);
         }
         return max;
     }
