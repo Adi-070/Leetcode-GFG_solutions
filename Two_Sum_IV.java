@@ -19,7 +19,7 @@ class Solution {
         if(root==null)
         return false;
 
-        TreeNode start = root;
+        TreeNode start = root;                                                                              //BRUTE_FORCE - O(n^2)
         TreeNode end = root;
         while (start.left != null) {
             start = start.left;
