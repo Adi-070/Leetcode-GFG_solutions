@@ -52,6 +52,8 @@ class Solution{
             c +=map.get(sum);
 
             map.put(sum,map.getOrDefault(sum,0)+1);
+            
+            
 
         }
         return c;
