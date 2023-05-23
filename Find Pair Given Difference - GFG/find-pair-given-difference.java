@@ -41,17 +41,15 @@ class Solution
 {
     public boolean findPair(int arr[], int size, int n)
     {
-        HashSet<Integer> set = new HashSet<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
         
         for(int i:arr)
-        {   
-            if(set.contains(i+n) || set.contains(i-n))
+        {
+            if(map.containsKey(i+n)||map.containsKey(i-n))
             return true;
             
-            else
-            set.add(i);
+            map.put(i,map.getOrDefault(i,0)+1);
         }
-  
         return false;
     }
 }
