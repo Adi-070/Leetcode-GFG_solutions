@@ -33,21 +33,23 @@ public class Main {
 class Solution {
     int[] kLargest(int[] arr, int n, int k) {
         
-       ArrayList<Integer> list = new ArrayList<>();
-       
-       for(int i:arr)
-       list.add(i);
-       
-       Collections.sort(list);
-       Collections.reverse(list);
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
         
-        
-        int[] num = new int[k];
-        
-        for(int i=0; i<k; i++)
+        for(int i=0; i<n; i++)
         {
-            num[i] = list.get(i);
+            pq.add(arr[i]);
+            
+            if(pq.size()>k)
+            pq.remove();
         }
-        return num;
+        
+        int ans[] = new int[k];
+        
+        for(int i=k-1; i>=0; i--)
+        {
+            ans[i] = pq.remove();
+        }
+        
+        return ans;
     }
 }
