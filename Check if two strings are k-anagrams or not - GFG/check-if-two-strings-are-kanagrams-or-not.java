@@ -23,7 +23,7 @@ class GFG {
 // } Driver Code Ends
 
 
-//User function template for JAVA
+//User function template for JA
 
 class Solution {
     boolean areKAnagrams(String s1, String s2, int k) {
@@ -44,6 +44,7 @@ class Solution {
        {
            if(map.containsKey(s2.charAt(i)) && map.get(s2.charAt(i))>0)
            map.put(s2.charAt(i),map.getOrDefault(s2.charAt(i),0)-1);
+           
            
            else
            c++;
