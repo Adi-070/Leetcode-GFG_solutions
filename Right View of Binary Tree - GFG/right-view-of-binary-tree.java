@@ -129,23 +129,28 @@ class Node
 
 
 class Solution{
-    //Function to return list containing elements of right view of binary tree.
     ArrayList<Integer> rightView(Node node) {
-        ArrayList<Integer> rightView = new ArrayList<>();
-        recursion(node,0,rightView);
-        return rightView;
-    }
-    
-    void recursion(Node root, int depth, ArrayList<Integer> rightView )
-    {
-        if (root==null)
-        return;
+        //add code here.
+        ArrayList<Integer> res = new ArrayList<>();
+        if(node == null) return null;
         
-        if (depth==rightView.size())
-        rightView.add(root.data);
+        Queue<Node> q = new LinkedList<>();
+        q.add(node);
         
-        recursion(root.right,depth+1,rightView);
-        recursion(root.left,depth+1,rightView);
+        while(!q.isEmpty()){
+            int size = q.size();
+            for(int i=0; i<size; i++){
+                Node curr = q.remove();
+                if(i == size-1) res.add(curr.data);
+                
+                if(curr.left != null){
+                    q.add(curr.left);
+                }
+                if(curr.right != null){
+                    q.add(curr.right);
+                }
+            }
+        }
+        return res;
     }
 }
-
