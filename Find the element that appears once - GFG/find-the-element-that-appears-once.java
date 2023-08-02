@@ -33,48 +33,12 @@ class Sol
 {
     public static int search(int A[], int N)
     {   
+        int sum=0;
         
-        if(A.length==1)
-        return A[0];
-        
-        int low=1;
-        int high=A.length-2;
-        
-        if(A[0]!=A[1])
-        return A[0];
-        
-        if(A[A.length-1]!=A[A.length-2])
-        return A[A.length-1];
-        
-        
-        while(low<=high)
+        for(int i=0; i<A.length; i++)
         {
-            int mid = low + (high-low)/2;
-            
-            if(mid%2!=0)
-            {
-            if(A[mid]==A[mid+1])
-            high=mid-1;
-            
-            else if(A[mid]==A[mid-1])
-            low=mid+1;
-            
-            else
-            return A[mid];
-            }
-            
-            else {
-            
-            if(A[mid]==A[mid+1])
-            low=mid+1;
-            
-            else if(A[mid]==A[mid-1])
-            high=mid-1;
-            
-            else
-            return A[mid];
-            }
+            sum = sum ^ A[i];
         }
-        return A[low];
+        return sum;
     }
 }
