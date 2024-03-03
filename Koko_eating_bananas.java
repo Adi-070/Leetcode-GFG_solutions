@@ -26,12 +26,8 @@ class Solution {
 
         long sum=0;
 
-        for(int i:piles) {
-        sum += i/mid;
-
-        if(i%mid!=0)
-        sum++;
-        }
+        for(int i:piles) 
+        sum += (i+mid-1)/mid;
 
         if(sum>h)
         return false;
