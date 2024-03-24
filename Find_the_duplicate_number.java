@@ -1,7 +1,7 @@
 class Solution {
     public int findDuplicate(int[] nums) {
         
-        Arrays.sort(nums);
+       
 
         int low=1;
         int high=nums.length-1;
