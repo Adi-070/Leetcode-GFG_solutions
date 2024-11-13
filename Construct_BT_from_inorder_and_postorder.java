@@ -14,11 +14,9 @@
  * }
  */
 class Solution {
-    int index =0;
-    Map<Integer, Integer> map = new HashMap<>();
-    int Preorder[];
-    int Inorder[];
-
+    int index=0;
+    int Preorder[], Inorder[];
+    HashMap<Integer,Integer> map = new HashMap<>();
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         if(preorder==null || inorder==null)
         return null;
@@ -26,25 +24,24 @@ class Solution {
         Preorder=preorder;
         Inorder=inorder;
 
-        for(int i=0;i<preorder.length;i++)
-         map.put(Inorder[i],i);
+        for(int i=0; i<inorder.length; i++)
+        map.put(inorder[i],i);
 
-        return dfs(0,inorder.length-1);
+        return helper(0,inorder.length-1);
     }
-    public TreeNode dfs(int start, int end)
+    public TreeNode helper(int start, int end)
     {
         if(start>end)
         return null;
 
-        int val = Preorder[index++];
-        TreeNode root = new TreeNode(val);
+        int val=Preorder[index++];
+        TreeNode root=new TreeNode(val);
 
-        int mid = map.get(val);
+        int mid=map.get(val);
 
-        root.left = dfs(start,mid-1);
-        root.right = dfs(mid+1,end);
+        root.left=helper(start,mid-1);
+        root.right=helper(mid+1,end);
 
         return root;
-
     }
 }
