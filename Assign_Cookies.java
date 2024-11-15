@@ -3,10 +3,9 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int size=0;
-        int greed=0;
+        int greed=0, size=0;
 
-        while(size<s.length && greed<g.length)
+        while(greed<g.length && size<s.length)
         {
             if(s[size]>=g[greed])
             greed++;
