@@ -7,6 +7,7 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ Collection of LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
