@@ -8,6 +8,7 @@ Collection of LeetCode solutions
 | ------- |
 | [0055-jump-game](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0056-merge-intervals) |
+| [0135-candy](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
@@ -18,6 +19,7 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 ## Sorting
