@@ -9,6 +9,7 @@ Collection of LeetCode solutions
 | [0055-jump-game](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0135-candy) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -31,6 +32,7 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -50,4 +52,16 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
