@@ -6,6 +6,7 @@ Collection of LeetCode solutions
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0056-merge-intervals) |
@@ -22,6 +23,7 @@ Collection of LeetCode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
