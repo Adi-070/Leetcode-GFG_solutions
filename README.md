@@ -13,6 +13,7 @@ Collection of LeetCode solutions
 | [0135-candy](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -24,6 +25,7 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -86,4 +88,12 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
