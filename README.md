@@ -10,6 +10,7 @@ Collection of LeetCode solutions
 | [0053-maximum-subarray](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0238-product-of-array-except-self) |
@@ -91,9 +92,14 @@ Collection of LeetCode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
