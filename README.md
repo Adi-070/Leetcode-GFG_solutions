@@ -12,6 +12,7 @@ Collection of LeetCode solutions
 | [0056-merge-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -39,6 +40,7 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -65,6 +67,7 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -80,6 +83,7 @@ Collection of LeetCode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -88,6 +92,7 @@ Collection of LeetCode solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
