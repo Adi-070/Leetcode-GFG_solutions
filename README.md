@@ -23,6 +23,7 @@ Collection of LeetCode solutions
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2714-left-and-right-sum-differences](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
@@ -116,8 +117,10 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
