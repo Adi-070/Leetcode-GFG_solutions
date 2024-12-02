@@ -30,6 +30,7 @@ Collection of LeetCode solutions
 | [0031-next-permutation](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +112,12 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
