@@ -21,8 +21,8 @@ class Solution {
             list2.add("0");
         }
 
-        // System.out.println(list1);
-        // System.out.println(list2);
+        System.out.println(list1);
+        System.out.println(list2);
         
 
         for(int i=0; i<Math.min(list1.size(),list2.size()); i++)
