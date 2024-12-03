@@ -93,6 +93,7 @@ Collection of LeetCode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0242-valid-anagram) |
@@ -123,6 +124,7 @@ Collection of LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0165-compare-version-numbers) |
@@ -144,4 +146,8 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2232-adding-spaces-to-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
