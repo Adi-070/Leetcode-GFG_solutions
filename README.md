@@ -121,6 +121,7 @@ Collection of LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0242-valid-anagram) |
