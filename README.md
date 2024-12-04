@@ -26,6 +26,7 @@ Collection of LeetCode solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2232-adding-spaces-to-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2502-sort-the-people](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ Collection of LeetCode solutions
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
+| [2502-sort-the-people](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode solutions
 | [0242-valid-anagram](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2502-sort-the-people](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2502-sort-the-people) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -138,6 +141,7 @@ Collection of LeetCode solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2232-adding-spaces-to-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2502-sort-the-people](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2502-sort-the-people) |
 ## String Matching
 |  |
 | ------- |
