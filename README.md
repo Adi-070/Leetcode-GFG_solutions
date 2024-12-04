@@ -24,6 +24,7 @@ Collection of LeetCode solutions
 | [0724-find-pivot-index](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2502-sort-the-people) |
@@ -37,6 +38,7 @@ Collection of LeetCode solutions
 | [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Greedy
 |  |
@@ -139,6 +141,7 @@ Collection of LeetCode solutions
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2502-sort-the-people) |
