@@ -2,30 +2,30 @@ class Solution {
     public int beautySum(String s) {
         
         int sum=0;
+        
 
         for(int i=0; i<s.length(); i++)
         {   
-            int[] arr = new int[26];
-
+            int[] freq = new int[26];
             for(int j=i; j<s.length(); j++)
-            {   
-                arr[s.charAt(j)- 'a']++;
-                sum += helper(arr);
+            {
+                freq[s.charAt(j)-'a']++;
+                sum += helper(freq);
             }
         }
         return sum;
     }
-    public int helper(int[] arr)
+    public int helper(int[] freq)
     {
-        int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
 
-        for(int i=0; i<26; i++)
+        for(int i: freq)
         {
-            if(arr[i]!=0)
+            if(i!=0)
             {
-            min=Math.min(min,arr[i]);
-            max=Math.max(max,arr[i]);
+                max=Math.max(max,i);
+                min=Math.min(min,i);
             }
         }
         return max-min;
