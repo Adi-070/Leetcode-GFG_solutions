@@ -23,6 +23,7 @@ Collection of LeetCode solutions
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2232-adding-spaces-to-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2714-left-and-right-sum-differences](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2714-left-and-right-sum-differences) |
@@ -98,6 +99,7 @@ Collection of LeetCode solutions
 | [0229-majority-element-ii](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode solutions
 | [0169-majority-element](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +120,7 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -131,6 +135,7 @@ Collection of LeetCode solutions
 | [0242-valid-anagram](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0242-valid-anagram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2232-adding-spaces-to-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
