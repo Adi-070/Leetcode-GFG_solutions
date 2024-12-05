@@ -143,6 +143,7 @@ Collection of LeetCode solutions
 | [0151-reverse-words-in-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0242-valid-anagram) |
+| [0459-repeated-substring-pattern](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -155,6 +156,7 @@ Collection of LeetCode solutions
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Stack
