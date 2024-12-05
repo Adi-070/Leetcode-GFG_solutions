@@ -33,6 +33,7 @@ Collection of LeetCode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0165-compare-version-numbers) |
@@ -139,6 +140,7 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0165-compare-version-numbers) |
@@ -156,6 +158,7 @@ Collection of LeetCode solutions
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
