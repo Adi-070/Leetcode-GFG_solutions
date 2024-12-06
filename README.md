@@ -30,6 +30,7 @@ Collection of LeetCode solutions
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2714-left-and-right-sum-differences) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode solutions
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2502-sort-the-people) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,4 +177,8 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
