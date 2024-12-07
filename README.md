@@ -154,6 +154,7 @@ Collection of LeetCode solutions
 | [0242-valid-anagram](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0851-goat-latin](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0851-goat-latin) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
