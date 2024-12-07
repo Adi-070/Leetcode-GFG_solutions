@@ -22,6 +22,7 @@ Collection of LeetCode solutions
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -108,6 +109,7 @@ Collection of LeetCode solutions
 | [0229-majority-element-ii](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -151,6 +153,7 @@ Collection of LeetCode solutions
 | [0165-compare-version-numbers](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0459-repeated-substring-pattern) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
