@@ -32,6 +32,7 @@ Collection of LeetCode solutions
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2714-left-and-right-sum-differences) |
+| [3427-special-array-ii](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3429-special-array-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
@@ -81,6 +82,7 @@ Collection of LeetCode solutions
 | [0724-find-pivot-index](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2714-left-and-right-sum-differences) |
+| [3427-special-array-ii](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3427-special-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Collection of LeetCode solutions
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0287-find-the-duplicate-number) |
+| [3427-special-array-ii](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
