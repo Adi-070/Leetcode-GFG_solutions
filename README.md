@@ -32,6 +32,7 @@ Collection of LeetCode solutions
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2714-left-and-right-sum-differences) |
+| [3429-special-array-i](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3429-special-array-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
 |  |
