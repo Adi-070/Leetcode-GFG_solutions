@@ -25,6 +25,7 @@ Collection of LeetCode solutions
 | [0455-assign-cookies](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0455-assign-cookies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -82,6 +83,7 @@ Collection of LeetCode solutions
 | [0238-product-of-array-except-self](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/3427-special-array-ii) |
@@ -115,6 +117,7 @@ Collection of LeetCode solutions
 | [0242-valid-anagram](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -202,4 +205,5 @@ Collection of LeetCode solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adi-070/Leetcode-GFG_solutions/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
