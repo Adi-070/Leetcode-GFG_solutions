@@ -1,5 +1,6 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
+        
         int i=0;
         int j=0;
 
@@ -12,11 +13,9 @@ class Solution {
             if(!set.contains(s.charAt(j)))
             {
                 set.add(s.charAt(j++));
-                max=Math.max(max,set.size());
+                max = Math.max(set.size(),max);
             }
-
-            else
-            {
+            else {
                 set.remove(s.charAt(i++));
             }
         }
